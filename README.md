@@ -1,26 +1,20 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;This+is+Amir+Bou+Ghanem....;Nice+to+meet+you!+🤗&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+%F0%9F%91%8B;This+is+Amir+Bou+Ghanem....;Nice+to+meet+you!+%F0%9F%A4%97&size=30&center=true&vCenter=true&width=600&height=50" alt="Hello there! This is Amir Bou Ghanem" />
   </a>
-</h1>
+</p>
 
-<div style="margin-bottom:1rem">
-  <p align="left">
-    <a href="https://github.com/amirboughanem">
-      <img src="https://komarev.com/ghpvc/?username=amirboughanem" alt="page views" />
-    </a>
-    <a href="https://github.com/amirboughanem?tab=followers">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirboughanem?style=flat&logo=github">
-    </a>
-    <a href="https://lebhub.xyz/dev/amirboughanem"><img src="https://iilpqhmmreujnytctjwh.supabase.co/functions/v1/badge-svg?user=amirboughanem" alt="Verified Lebanese Dev on lebhub.xyz" width="175" /></a>
-  </p>
-
-  <a href="#amirboughanem-title">
-    <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/overview.svg" alt="amirboughanem" align="right" />
+<p align="center">
+  <a href="https://github.com/amirboughanem">
+    <img src="https://komarev.com/ghpvc/?username=amirboughanem" alt="page views" height="20" />
   </a>
-</div>
-
-<br>
+  <a href="https://github.com/amirboughanem?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirboughanem?style=flat&logo=github" height="20" />
+  </a>
+  <a href="https://lebhub.xyz/dev/amirboughanem">
+    <img src="https://iilpqhmmreujnytctjwh.supabase.co/functions/v1/badge-svg?user=amirboughanem" alt="Verified Lebanese Dev on lebhub.xyz" height="20" />
+  </a>
+</p>
 
 - :seedling: &nbsp;I’m currently working on my cloud & deployment skills
 - :speech_balloon: &nbsp;I like to talk about **cloud tools** and **development practices**
@@ -113,8 +107,12 @@
 <h2 align="left">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amirboughanem&theme=react&background=20232a&hide_border=true" alt="GitHub streak" height="165" />
-  <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/languages.svg" alt="Top languages" height="165" />
+  <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/languages.svg" alt="Top languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amirboughanem&theme=react&background=20232a&hide_border=true" alt="GitHub streak" width="70%" />
 </p>
 
 <picture>
