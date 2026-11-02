@@ -20,7 +20,6 @@
 - :speech_balloon: &nbsp;I like to talk about **cloud tools** and **development practices**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
 
 <h2 align="left" id="tech">Favorite Tech</h2>
 
