@@ -28,13 +28,13 @@
 
 <table>
   <tr>
-    <td align="center" width="96"> 
-        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
-      <br>Android
-    </td>
     <td align="center" width="96">
         <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
+      <br>Android
     </td>
     <td align="center" width="96">
         <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" />
@@ -78,16 +78,24 @@
       <br>VSCode
     </td>
     <td align="center" width="96"> 
-        <img src="./img/android-studio-original.svg" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
+        <img src="./img/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
+      <br>IntelliJ IDEA
     </td>
     <td align="center" width="96"> 
         <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96"> 
+        <img src="./img/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96"> 
         <img src="./img/postman-original.svg" width="48" height="48" alt="Postman" />
       <br>Postman
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/claude-original.svg" width="48" height="48" alt="Claude" />
+      <br>Claude
     </td>
     <td align="center" width="96"> 
         <img src="./img/slack-original.svg" width="48" height="48" alt="Slack" />
