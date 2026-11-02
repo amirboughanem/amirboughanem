@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;This+is+Amir+Bou+Ghanem....;Nice+to+meet+you!+🤗&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;This+is+Amir+Bou+Ghanem....;Nice+to+meet+you!+🤗&size=30">
   </a>
 </h1>
 
@@ -22,7 +22,6 @@
 
 <br>
 
-- :office: &nbsp;I'm currently working at **[Oreyeon]** as a Backend Engineer
 - :seedling: &nbsp;I’m currently working on my cloud & deployment skills
 - :speech_balloon: &nbsp;I like to talk about **cloud tools** and **development practices**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -79,18 +78,18 @@
 </table>
 
 <table>
-    </td>
-      <td align="center" width="96"> 
+  <tr>
+    <td align="center" width="96"> 
         <img src="./img/vs-code-original.svg" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
     <td align="center" width="96"> 
         <img src="./img/android-studio-original.svg" width="48" height="48" alt="Android Studio" />
       <br>Android Studio
+    </td>
     <td align="center" width="96"> 
         <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
     </td>
     <td align="center" width="96"> 
         <img src="./img/postman-original.svg" width="48" height="48" alt="Postman" />
@@ -108,13 +107,22 @@
         <img src="./img/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
+  </tr>
 </table>
 
-<h2 align="left">Contribution Graph</h2>
+<h2 align="left">GitHub Activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirboughanem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amirboughanem&theme=react&background=20232a&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/languages.svg" alt="Top languages" height="165" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirboughanem/amirboughanem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirboughanem/amirboughanem/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/amirboughanem/amirboughanem/output/github-snake.svg" width="100%" />
+</picture>
 
 <!-- links -->
 
-[Oreyeon]: https://oreyeon.com
 [linkedin]: https://www.linkedin.com/in/amir-bou-ghanem "Amir Bou Ghanem LinkedIn"
